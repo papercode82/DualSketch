@@ -20,7 +20,7 @@ For the synthetic dataset, we include the data generation script used in our exp
 ## MAWI Traffic Traces (2024)
 
 - **Description**: The MAWI dataset is maintained by [the MAWI Working Group](http://www.wide.ad.jp/project/wg/mawi.html) of [the WIDE Project](http://www.wide.ad.jp/). It provides daily backbone traffic traces captured at the WIDE–ISP transit link, widely used in tasks such as heavy hitter identification.
-- **Sample File**: A small demo file (in CSV format) is provided, parsed from the original MAWI traces.
+- **Demo File**: A small demo file (in CSV format) is provided, parsed from the original MAWI traces.
 - **Full Dataset**: Can be downloaded from the MAWI archive:  
   https://mawi.wide.ad.jp/mawi/
 
@@ -29,10 +29,8 @@ For the synthetic dataset, we include the data generation script used in our exp
 ## Frequent Itemset Mining Dataset
 
 - **Description**: This is the public datasets from the Frequent Itemset Mining Dataset repository. 
-- **Sample File**: we provide the "kosarak.dat" dataset as a demo, which contains (anonymized) click-stream data of a hungarian on-line news portal.
+- **Demo File**: we provide the "kosarak.dat" dataset as a demo, which contains (anonymized) click-stream data of a hungarian on-line news portal.
 - **Full Dataset**: Can be obtained from the open data archive: http://fimi.uantwerpen.be/data/
-
-
 
 ---
 
@@ -43,8 +41,6 @@ For the synthetic dataset, we include the data generation script used in our exp
 - **Generation Script**:  
   The script used to generate this dataset is included in the repository (`genSyntheticDataset.py`).  
   Users can adjust parameters to create datasets with different statistical characteristics.
-
-
 
 ---
 
